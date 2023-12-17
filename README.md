@@ -12,4 +12,6 @@ To replicate Finetuning:
 
 1. For Training: You will need a GPU with atleast 24gb of VRAM, I suggest you rent one using runpod.io
 2. Train the model and save relevant checkpoints. The Code for inference is there on the last code block, you can run any query using that. 
-3. Test_eval.csv contains the question and its corresponding model and GPT4 output 
+3. Test_eval.csv contains the question and its corresponding model and GPT4 output
+
+4. To  run inference please download the relevant checkpoint from [here](https://drive.google.com/drive/folders/1fRbF3GkFGwrIlyQdClAYcCHU435gqR6A?usp=drive_link) :
