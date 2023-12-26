@@ -1,4 +1,5 @@
 # Mistral7B_Finetune
+Huggingface Link: https://huggingface.co/dishank19/Mistral7B-SHP
 Mistral7B finetuned on the [SHP](https://huggingface.co/datasets/stanfordnlp/SHP) dataset - Project for CS690F
 
 
